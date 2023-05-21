@@ -1,3 +1,5 @@
+There is no commits because I first finished the code and then I realized I was supposed to make it before.
+
 I defined 3 endpoints:
 1) for current weather
 2) forecast
